@@ -15,3 +15,7 @@ Integration tests verify that different parts of the application work well toget
 
 ### End to End Tests
 End to end tests replicate user behavior throughout the entire application from end to end, verifying that a user flow works as expected.
+
+## Testing Frameworks
+- Jest is a Behavior Driven Development testing framework built on top of Jasmine, and it is used for unit and integration testing
+- Cypress is an end to end testing framework
